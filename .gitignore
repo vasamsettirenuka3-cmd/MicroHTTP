@@ -1,0 +1,7 @@
+microhttp
+microhttp_asan
+*.o
+*.log
+*.bak
+*.previous
+*.backup-*
